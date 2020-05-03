@@ -22,3 +22,13 @@ Image and Vision Computing (IMAVIS), Special Issue on Facial Landmark Localisati
 <br/>
 <br/>
 <i>Instructions: Execute detect_drowsiness.py. (Runtime arguments for webcam and video input are present inside the file)</i>
+<br/>
+<br/>
+<h2> This Project uses EAR (Eye Aspect Ratio) to detect drivers Drowsiness. </h2>
+<br/>
+<br/>
+<h3><b><i>When Eyes are not visible due to glasses or due to any other reason the EAR is indeterminable we have a module called Yawn Detector which captures the duration and frequency of yawning of the driver to check the drowsiness of the driver.</i></b></h3>
+<br/>
+<br/>
+<h4><i>The Yawn Detector module is still in development and hence not perfect</i></h4>
+
